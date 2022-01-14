@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/drawable/checkbox_checked.xml" value="0.29739583333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/drawable/checkbox_unchecked.xml" value="0.29739583333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/drawable/circular_checkbox.xml" value="0.29739583333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/drawable/circular_checked.xml" value="0.29739583333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/drawable/circular_unchecked.xml" value="0.29739583333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/drawable/ic_home.xml" value="0.3194871794871795" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/drawable/popup_menu.xml" value="0.3194444444444444" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/drawable/popup_menu_green.xml" value="0.3194444444444444" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/drawable/volume.xml" value="0.2796875" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout-land/activity_equalizer.xml" value="0.20458553791887124" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout-land/activity_now_playing.xml" value="0.22310405643738976" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout-v23/now_playing_art_controls.xml" value="0.2635416666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/activity_edit_tags.xml" value="0.3392210144927536" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/activity_equalizer.xml" value="0.2635416666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/activity_list_playlist.xml" value="0.3392210144927536" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/activity_list_song_api.xml" value="0.2635416666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/activity_now_playing.xml" value="0.24166666666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/activity_play_nhac.xml" value="0.3392210144927536" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/activity_search.xml" value="0.3302083333333333" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/activity_search_api.xml" value="0.24166666666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/activity_settings.xml" value="0.24166666666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/app_bar_main.xml" value="0.24166666666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/content_main.xml" value="0.24166666666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/content_view.xml" value="0.28125" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/delete_song_layout.xml" value="0.28125" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/dong_banner.xml" value="0.28125" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/dong_danh_sach_playlist.xml" value="0.28125" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/dong_play_baihat.xml" value="0.3134057971014493" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/dong_search_baihat.xml" value="0.3392210144927536" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/fragment__playlist_song__api.xml" value="0.2635416666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/fragment_album_api.xml" value="0.3134057971014493" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/fragment_albums.xml" value="0.2635416666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/fragment_baihat_top_like.xml" value="0.3134057971014493" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/fragment_banner.xml" value="0.2635416666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/fragment_home.xml" value="0.30833333333333335" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/fragment_play_danhsach_baihat.xml" value="0.28125" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/fragment_playlist_home.xml" value="0.3134057971014493" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/fragment_playlist_songs.xml" value="0.28125" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/fragment_playlists.xml" value="0.24166666666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/fragment_songs.xml" value="0.2635416666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/fragment_tim_kiem.xml" value="0.3392210144927536" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/nav_header_main.xml" value="0.2635416666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/new_playlist.xml" value="0.28125" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/now_playing_art_controls.xml" value="0.2635416666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/now_playing_queue.xml" value="0.28125" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/rv_albums.xml" value="0.2635416666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/rv_artists.xml" value="0.2635416666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/rv_folders.xml" value="0.3134057971014493" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/rv_playlists.xml" value="0.3134057971014493" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/rv_queue.xml" value="0.28125" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/rv_songs.xml" value="0.2635416666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/search_header_text.xml" value="0.2635416666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/layout/vp_album_art.xml" value="0.2635416666666667" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/menu/activity_main_drawer.xml" value="0.30833333333333335" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/menu/album_popup_menu.xml" value="0.30833333333333335" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/menu/folder_popup_menu.xml" value="0.28125" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/menu/main.xml" value="0.30833333333333335" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/menu/now_playing.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/menu/npq_menu.xml" value="0.28125" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/menu/selection_menu.xml" value="0.28125" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save - ok2/app/src/main/res/menu/song_popup_menu.xml" value="0.28125" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/drawable/ic_back.xml" value="0.38564102564102565" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout-land/activity_now_playing.xml" value="0.31790123456790126" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/activity_edit_tags.xml" value="0.3333333333333333" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/activity_list_bai_hat.xml" value="0.25" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/activity_list_playlist.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/activity_list_song_banner.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/activity_main.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/activity_play_nhac.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/activity_search.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/activity_settings.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/app_bar_main.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/content_main.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/dong_album.xml" value="0.321875" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/fragment__playlist_song__a_p_i.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/fragment_album.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/fragment_album_songs.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/fragment_albums.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/fragment_artist_albums.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/fragment_banner.xml" value="0.21145833333333333" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/fragment_dia_nhac.xml" value="0.21145833333333333" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/fragment_folders.xml" value="0.3333333333333333" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/fragment_home.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/fragment_playlist.xml" value="0.3641304347826087" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/fragment_playlist_home.xml" value="0.321875" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/fragment_playlist_songs.xml" value="0.321875" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/fragment_playlists.xml" value="0.321875" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/fragment_songs.xml" value="0.3333333333333333" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/fragment_trang_chu.xml" value="0.3333333333333333" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/now_playing_art_controls.xml" value="0.24270833333333333" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/rv_albums.xml" value="0.321875" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/rv_artists.xml" value="0.321875" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/layout/rv_playlists.xml" value="0.321875" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/menu/activity_main_drawer.xml" value="0.20680272108843537" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master - save/app/src/main/res/menu/search_view.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/add_green.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/album_green.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/artist_green.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/back_green.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/bck_circle.xml" value="0.3328125" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/bck_play_pause_btn.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/cassette.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/cassettes.xml" value="0.3875" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/checkbox.xml" value="0.3875" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/checkbox_checked.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/checkbox_unchecked.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/circular_checked.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/circular_unchecked.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/custom_toggle_bg.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/drop_down.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/enqueue_green.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/equalizer_outline.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/fastscrollbar.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/fastscrollbar_hidden.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/folder_green.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/folder_white.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/fsp.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/fst.xml" value="0.34739583333333335" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/ic_add.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/ic_album.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/ic_artist.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/ic_audio.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/ic_back.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/ic_close.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/ic_enqueue.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/ic_ghost.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/ic_icons8_musical_notes.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/ic_next.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/ic_pause.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/nav_green.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/next_white.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/not_selected.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/pause_green.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/pause_white.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/play_green.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/play_white.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/playlist_green.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/popup_menu.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/popup_menu_green.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/previous_white.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/queue_white.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/repeat_green.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/repeat_one_green.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/repeat_white.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/search_green.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/seekbar_progress.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/selected.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/shuffle_green.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/shuffle_white.xml" value="0.34739583333333335" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/song_border_shadow.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/song_seekbar_style.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/song_seekbar_thumb.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/songs_green.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/spinner_bg.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/stop_white.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/textview_bg.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/toolbar_bg.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/drawable/volume.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/font/eczar.xml" value="0.40572916666666664" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/font/space_mono.xml" value="0.40572916666666664" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout-land/activity_equalizer.xml" value="0.31790123456790126" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout-land/activity_now_playing.xml" value="0.31790123456790126" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout-land/fragment_trang_chu.xml" value="0.31790123456790126" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout-v21/app_bar_main.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout-v23/now_playing_art_controls.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/activity_edit_tags.xml" value="0.23731884057971014" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/activity_equalizer.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/activity_main.xml" value="0.2545289855072464" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/activity_now_playing.xml" value="0.2545289855072464" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/activity_search.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/activity_settings.xml" value="0.2545289855072464" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/add_to_playlist.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/app_bar_main.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/artists_fragment.xml" value="0.2545289855072464" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/big_content_view.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/content_main.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/content_view.xml" value="0.2545289855072464" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/delete_song_layout.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/fragment_album_songs.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/fragment_albums.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/fragment_artist_albums.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/fragment_folders.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/fragment_playlist_songs.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/fragment_playlists.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/fragment_songs.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/nav_header_main.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/new_playlist.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/now_playing_art_controls.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/now_playing_queue.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/rv_albums.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/rv_artists.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/rv_folders.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/rv_playlists.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/rv_queue.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/rv_songs.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/search_header_text.xml" value="0.2545289855072464" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/layout/vp_album_art.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/menu/album_popup_menu.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/menu/folder_popup_menu.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/menu/main.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/menu/now_playing.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/menu/npq_menu.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/menu/selection_menu.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/menu/song_popup_menu.xml" value="0.37552083333333336" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/mipmap-anydpi-v26/cassette_round.xml" value="0.39166666666666666" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_ghost.xml" value="0.340625" />
+        <entry key="..\:/CodeAndroid/MusicPlayer-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_ghost_round.xml" value="0.39166666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

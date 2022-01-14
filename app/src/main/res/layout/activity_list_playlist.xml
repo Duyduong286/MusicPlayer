@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityAPI.Activity_List_Playlist">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_list_api"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/toolbar_bg"
+        android:fitsSystemWindows="true"
+        android:gravity="center_vertical"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:contentInsetStartWithNavigation="0dp"
+        app:navigationIcon="@drawable/ic_back"
+        app:popupTheme="@style/AppTheme.PopupOverlay"
+        app:title="PlayLists"
+        app:titleMargin="0dp"
+        app:titleTextColor="@color/bluec1" />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_list_Playlist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar_list_api"
+        android:background="@color/blue89">
+
+    </androidx.recyclerview.widget.RecyclerView>
+</RelativeLayout>

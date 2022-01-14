@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3A434D</color>
+    <color name="colorPrimaryDark">#343D45</color>
+    <color name="colorItemSelected">#85343D45</color>
+    <color name="colorBG">#c1dee2</color>
+    <color name="colorPrimaryLight">#6B7B8F</color>
+    <color name="grey">#636060</color>
+    <color name="lighter_black">#991F1D1D</color>
+    <color name="bluec1">#c1dee2</color>
+    <color name="blue89">#89b9c5</color>
+    <color name="blue41">#417d95</color>
+    <color name="blue23">#417d95</color>
+    <color name="notification_artist">#3d3d3d</color>
+    <color name="dark_transparent_black">#99000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000</color>
+    <color name="toolbar_playlist">#000</color>
+    <color name="FloatingActionButton_color">#8606f7</color>
+</resources>

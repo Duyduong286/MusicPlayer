@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/bluec1">
+
+    <TextView
+        android:id="@+id/textviewtitleplaylist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="15dp"
+        android:background="@color/blue41"
+        android:gravity="center"
+        android:text="@string/hostbeat"
+        android:textColor="#b6000000"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/listviewtilteplaylist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textviewtitleplaylist">
+
+    </ListView>
+
+    <TextView
+        android:id="@+id/textviewviewmoreplaylist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/listviewtilteplaylist"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="@color/blue89"
+        android:drawableRight="@drawable/iconmoreplaylist"
+        android:drawablePadding="10dp"
+        android:paddingLeft="5dp"
+        android:paddingTop="10dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="10dp"
+        android:text="@string/more_playlists"
+        android:textColor="#0a0a0a"
+        android:textSize="19sp" />
+</RelativeLayout>
